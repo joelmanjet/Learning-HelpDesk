@@ -16,7 +16,9 @@ Below are some demos from the course:
 
 1. **Creating A Ticket In Spiceworks**  
    ![Troubleshooting Network Issues](HowToCreateTicket.gif)
-
+   
+2. **Escalating A Ticket In Spiceworks And Waiting For The User**  
+   ![Troubleshooting Network Issues](ChangingPriorityOfTicket.gif)
 ---
 
 ## Key Takeaways 💡
