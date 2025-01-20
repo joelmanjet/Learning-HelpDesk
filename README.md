@@ -10,15 +10,22 @@ Interested in a job in IT? One of the best ways to break into the field is to la
 
 ---
 
-## Challenges and Demonstrations 🎯
+## Demonstrations 🎯
 
-Below are some demos from the course:
+Below are the demos that showcase basic functionalities of Spiceworks Ticketing system:
 
 1. **Creating A Ticket In Spiceworks**  
    ![Troubleshooting Network Issues](HowToCreateTicket.gif)
    
 2. **Escalating A Ticket In Spiceworks And Waiting For The User**  
    ![Troubleshooting Network Issues](ChangingPriorityOfTicket.gif)
+
+---
+## Repos for Course
+
+![Troubleshooting Network Issues](https://github.com/joelmanjet/Network-Troubleshooting/tree/main)
+
+
 ---
 
 ## Key Takeaways 💡
