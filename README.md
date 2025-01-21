@@ -24,7 +24,7 @@ Below are the demos that showcase basic functionalities of Spiceworks Ticketing 
 ## Repos for Course
 
 ![Troubleshooting Network Issues](https://github.com/joelmanjet/Network-Troubleshooting/tree/main)
-
+![Steps-to-Detect-and-Handle-Malware](https://github.com/joelmanjet/Steps-to-Detect-and-Handle-Malware)
 
 ---
 
